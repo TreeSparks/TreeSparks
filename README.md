@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TreeSparks
 - 👀 I’m interested in JAVA Programming, 3D Printing, Minecraft.
 - 🌱 I’m currently learning 3D Design with Blender.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me SparkinTreeShark8@gmail.com
 
 <!---
