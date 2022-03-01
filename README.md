@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TreeSparks
-- 👀 I’m interested in Programming, 3D Printing, Minecraft.
+- 👀 I’m interested in Programming, 3D Printing, 2D Games.
 - Learning Python.
 - 📫 How to reach me SparkinTreeShark8@gmail.com
 
