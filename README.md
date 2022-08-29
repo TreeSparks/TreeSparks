@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TreeSparks
-- 👀 I’m interested in Programming, 3D Printing, 2D Games.
-- Learning Python.
+- 👀 I’m interested in Programming, 2D Games.
+- Learning Python, Godot Engine.
 - 📫 How to reach me SparkinTreeShark8@gmail.com
 
 <!---
